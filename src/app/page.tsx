@@ -57,7 +57,7 @@ export default function LandingPage() {
       description="Enkaz altında kalanları tespit eden, otonom arama-kurtarma robotumuz ile geleceğe nefes oluyoruz. Teknofest Vizyonuyla tasarlandı."
       buttons={[
         {
-          text: "hakkımızda daha fazla bilgi edinin",          href: "#about"},
+          text: "Hakkımızda Daha Fazla Bilgi Edinin",          href: "#about"},
       ]}
       mediaItems={[
         {
@@ -221,7 +221,7 @@ export default function LandingPage() {
         variant: "rotated-rays-static"}}
       tag="İletişim"
       title="Bize Ulaşın"
-      description="hakkımızda daha fazla bilgi edinin için lütfen bizimle iletişime geçin."
+      description="Hakkımızda daha fazla bilgi edinin için lütfen bizimle iletişime geçin."
       imageSrc="http://img.b2bpic.net/free-photo/futuristic-time-machine_23-2151599395.jpg"
       imageAlt="tech command center desk"
       mediaAnimation="slide-up"
