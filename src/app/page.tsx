@@ -73,15 +73,15 @@ export default function LandingPage() {
       ]}
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/fantasy-style-half-fox-half-robot_23-2151601024.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fantasy-style-half-fox-half-robot_23-2151601024.jpg?_wi=1",
           imageAlt: "search and rescue robot technology",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/futuristic-robot-hummingbird_23-2151443814.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/futuristic-robot-hummingbird_23-2151443814.jpg?_wi=1",
           imageAlt: "robotic arm debris clearance",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/scene-with-futuristic-robot-used-construction-industry_23-2151329470.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/scene-with-futuristic-robot-used-construction-industry_23-2151329470.jpg?_wi=1",
           imageAlt: "robot navigating disaster zone",
         },
         {
@@ -134,7 +134,7 @@ export default function LandingPage() {
               imageAlt: "infrared thermal sensor tech",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/fantasy-style-half-fox-half-robot_23-2151601024.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fantasy-style-half-fox-half-robot_23-2151601024.jpg?_wi=2",
           imageAlt: "infrared thermal sensor tech",
         },
         {
@@ -151,7 +151,7 @@ export default function LandingPage() {
               imageAlt: "robot track drive system",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/futuristic-robot-hummingbird_23-2151443814.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/futuristic-robot-hummingbird_23-2151443814.jpg?_wi=2",
           imageAlt: "infrared thermal sensor tech",
         },
         {
@@ -168,7 +168,7 @@ export default function LandingPage() {
               imageAlt: "robot track drive system",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/scene-with-futuristic-robot-used-construction-industry_23-2151329470.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/scene-with-futuristic-robot-used-construction-industry_23-2151329470.jpg?_wi=2",
           imageAlt: "infrared thermal sensor tech",
         },
       ]}
